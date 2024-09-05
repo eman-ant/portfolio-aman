@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "TODO: Aman Anten"
+  text: "TODO: A senior on a mission to graduate"
+  tagline: "TODO: A 6.170 production"
   actions:
     - theme: brand
       text: Template Repository
